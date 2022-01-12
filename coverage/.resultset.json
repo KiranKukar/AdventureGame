@@ -1,7 +1,34 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/kirankukar/Projects/AdventureGame/spec/features/entering_name_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/kirankukar/Projects/AdventureGame/spec/player_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
     },
-    "timestamp": 1641946331
+    "timestamp": 1641949719
   }
 }
