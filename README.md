@@ -8,4 +8,9 @@ As a player
 To begin playing the game
 I want to enter my name to start the adventure
 
-[player name input model](https://user-images.githubusercontent.com/92406004/149041910-789a9458-0b06-434e-b8e8-9fd9ea3572d0.png)
+
+Client	Controller	Model	Views
+Player name>>>>	/ >>>>>>>>>		
+		<<<<<<player name	
+	/play >>>>>>>>>	>>>>>>>>>>>>>>>	
+response	<<<<<<<<<<<<<<<<<	<<<<<<<<<<<<<<<<<	:play![player enters name model](https://user-images.githubusercontent.com/92406004/149042025-039c897f-95b5-4c6c-84c2-fcb0128027d7.png)
